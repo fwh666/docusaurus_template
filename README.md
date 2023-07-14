@@ -1,3 +1,11 @@
+# Enevment
+- create project base command
+```shell
+npx create-docusaurus@latest my-website-docusaurus classic --typescript
+```
+## Doc
+- https://docusaurus.io/zh-CN/docs/sidebar
+
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
